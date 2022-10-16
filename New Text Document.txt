@@ -1,0 +1,8 @@
+Prepare a Spring boot web application that have following features:
+*It must be connected to a MySQL database. Data must be come from it.
+* It shall have Books and authors.
+* There must be an API endpoint to get all books.
+* There must be an API endpoint to get all authors of a given book.
+* There must be an API endpoint to insert a book with authors to the database.
+
+You must send the API endpoint table.
