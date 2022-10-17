@@ -1,2 +1,3 @@
 //    GET ALL BOOKS
+//    @GetMapping
 link -> localhost:8080/api/v1/book/getAllBooks
